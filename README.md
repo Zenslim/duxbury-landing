@@ -1,2 +1,2 @@
-# duxbury-landing
-Landing page for the Duxbury Regenerates project
+# ZenTrust Landing Page
+A minimal React + Tailwind site for ZenTrust.
